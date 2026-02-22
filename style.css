@@ -45,6 +45,9 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+.fullscreen h1 {
+  text-align: center;
+}
 
 .fullscreen input {
   padding: 10px;
